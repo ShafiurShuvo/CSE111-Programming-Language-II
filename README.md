@@ -1,6 +1,6 @@
 # CSE111 - Programming Language II
 
-Welcome to the **CSE111 - Programming Language II** repository. This repository contains lab assignments and practice sheets for the course, organized by topic for easy access and reference.
+Welcome to the **CSE111 - Programming Language II** repository. This repository contains lab assignments and practice sheets for the course (done in **Fall 2022**), organized by topic for easy access and reference.
 
 
 ## 📝 Assignments Overview
