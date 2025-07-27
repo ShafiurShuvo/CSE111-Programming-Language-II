@@ -27,6 +27,8 @@ Welcome to the **CSE111 - Programming Language II** repository. This repository 
    ```sh
    git clone https://github.com/ShafiurShuvo/CSE111-Programming-Language-II.git
    ```
-2. Open the assignments using Jupyter Notebook or Google Colab.
+   OR
+   📦[Download Zip](https://github.com/ShafiurShuvo/CSE111-Programming-Language-II/archive/refs/heads/main.zip)
+3. Open the assignments using Jupyter Notebook or Google Colab.
 
-3. Follow the instructions inside each assignment.
+4. Follow the instructions inside each assignment.
