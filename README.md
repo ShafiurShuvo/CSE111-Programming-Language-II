@@ -16,6 +16,11 @@ Welcome to the **CSE111 - Programming Language II** repository. This repository 
 | 8          | Variable & Method Overriding                 | [Assignment 8](CSE111_Lab_Assignment_8_(Variable_&_Method_Overriding).ipynb) |
 | 9          | Practice Sheet (Solved)                      | [Practice Sheet](CSE111_Lab_9_Practice_Sheet_(Solve).ipynb) |
 
+| Exam Type     | Covered Labs            | File Link                         |
+|---------------|--------------------------|-----------------------------------|
+| Lab Midterm   | Lab 1-4                  | [Lab Midterm](CSE111_Lab_Mid.ipynb) |
+| Lab Final     | Lab 5-8                  | [Lab Final](CSE111_Lab_Final.ipynb)     |
+
 ## 🔧 How to Use
 
 1. Clone this repository:
